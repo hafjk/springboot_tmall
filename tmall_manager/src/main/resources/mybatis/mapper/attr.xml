@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.shengsiyuan.tmall_manager.mapper.AttrMapper">
+   <insert id="addAttr" useGeneratedKeys="true"
+           parameterType="com.shengsiyuan.tmall_manager.bean.Object_attr" keyColumn="id" keyProperty="id">
+       insert into tmall_attr (flbh2,shxm_mch) values (#{flbh2},#{shxm_mch});
+   </insert>
+
+    <insert id="addvalue" parameterType="map">
+        insert into tmall_value (shxzh,shxzh_mch,shxm_id) values
+        <foreach collection="value" separator="," item="val">
+        (#{val.shxzh},#{val.shxzh_mch},#{attr_id})
+        </foreach>
+    </insert>
+
+    <select id="selectAttr" parameterType="int"
+    resultMap="select_attr_list">
+        select tmall_attr.id as attr_id , tmall_attr.* ,
+        tmall_value.id as value_id , tmall_value.* from tmall_attr,
+         tmall_value where tmall_attr.id = tmall_value.shxm_id
+         and flbh2 = #{flbh2}
+
+    </select>
+
+    <resultMap id="select_attr_list"
+               type="com.shengsiyuan.tmall_manager.bean.Object_attr" autoMapping="true">
+        <result column="attr_id" property="id"></result>
+
+        <collection property="list_value" ofType="com.shengsiyuan.tmall_manager.bean.Tmall_value" autoMapping="true">
+            <result column="value_id" property="id"></result>
+        </collection>
+    </resultMap>
+
+</mapper>

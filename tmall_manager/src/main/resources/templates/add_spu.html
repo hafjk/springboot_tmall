@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+ <html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!--<h1 th:text="${spu.flbh1}"></h1>-->
+<!--<h1 th:text="${spu.flbh2}"></h1>-->
+
+    <form action="add_spu1" enctype="multipart/form-data" method="post">
+        商品名称：<input type="text" name="shp_mch"><br>
+        商品描述：<textarea name="shp_msh" rows="10" cols="50"></textarea><br>
+        商品图片：
+        <input type="file" name="files"><br>
+        <input type="file" name="files"><br>
+        <input type="file" name="files"><br>
+        <input type="submit" value="提交">
+
+    </form>
+</body>
+</html>

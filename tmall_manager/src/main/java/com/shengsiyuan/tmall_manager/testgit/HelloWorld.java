@@ -4,5 +4,6 @@ public class HelloWorld {
     public void output(){
         System.out.print("hello");
         System.out.print("zengdema ");
+        System.out.print("fdafaf  ");
     }
 }

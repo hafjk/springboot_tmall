@@ -12,8 +12,10 @@ public class UserServiceImpl implements UserService {
     UserMapper userMapper;
 
     @Override
-    /*public UserAccount queryUser(UserAccount userAccount) {
+    public UserAccount queryUser(UserAccount userAccount) {
+        System.out.println("hello");
+        System.out.println("hello");
         System.out.println("hello");
         return userMapper.selectUser(userAccount);
-    }*/
+    }
 }

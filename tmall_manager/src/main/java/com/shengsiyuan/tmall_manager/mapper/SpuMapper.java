@@ -11,3 +11,4 @@ public interface SpuMapper {
 
    public void insertImages(Map<String,Object> map);
 }
+// 放大法骄傲

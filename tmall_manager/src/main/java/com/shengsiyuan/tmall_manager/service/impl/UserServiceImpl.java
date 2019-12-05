@@ -13,7 +13,7 @@ public class UserServiceImpl implements UserService {
 
     @Override
     public UserAccount queryUser(UserAccount userAccount) {
-        system.out.pringln("hello");
+        System.out.println("hello");
         return userMapper.selectUser(userAccount);
     }
 }

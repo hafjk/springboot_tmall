@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13256c88-ebd2-42be-9c8e-467ca18a2ab5" name="Default" comment="tom2">
+      <change beforePath="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/service/impl/UserServiceImpl.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/tmall_manager/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TmallManagerApplicationTests.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tmall_manager/src/test/java/com/shengsiyuan/tmall_manager/TmallManagerApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpuMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/mapper/SpuMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpuServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/service/impl/SpuServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpuServiceInfimp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/service/impl/SpuServiceInfimp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AttrServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/service/impl/AttrServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpuService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/service/SpuService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="attr.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/resources/mybatis/mapper/attr.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Object_attr.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/bean/Object_attr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tmall_value.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/bean/Tmall_value.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/bean/tmallproduct.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/service/spuServiceInf.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/service/SpuServiceInf.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/bean/Tmall_product.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/bean/url.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/bean/Url.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/util/MyFileUpload.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/mapper.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/mapper/SpuMapper.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/pom.xml" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/service/impl/SpuServiceInfimp.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/service/SpuService.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/resources/templates/add_spu.html" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/controller/SpuController1113.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/controller/Spucontroller.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/resources/mybatis/mapper/spu.xml" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/service/impl/SpuServiceImpl.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/resources/templates/add_attr.html" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/service/AttrService.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/mapper/AttrMapper.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/service/impl/AttrServiceImpl.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/bean/Tmall_value.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/bean/Tmall_attr.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/bean/Object_attr.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/controller/AttrController.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/resources/templates/success.html" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/bean/UserAccount.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/resources/mybatis/mapper/user.xml" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/service/UserService.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/resources/mybatis/mapper/attr.xml" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/resources/afd.application" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/resources/a.properties" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/testgit/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/test/java/com/shengsiyuan/tmall_manager/TmallManagerApplicationTests.java" />
+        <option value="$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/service/impl/UserServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\apache-maven-3.6.1\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="308" />
+    <option name="width" value="1074" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springboot_tmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tmall_manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_tmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tmall_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_tmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tmall_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_tmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tmall_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_tmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tmall_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tmall_manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_tmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tmall_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tmall_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_tmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tmall_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tmall_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_tmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tmall_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tmall_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.shengsiyuan.tmall_manager.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ IDEA\progress\springboot_tmall\tmall_manager\src\main\resources\mybatis\mapper" />
+      <recent name="D:\IntelliJ IDEA\progress\springboot_tmall\tmall_manager\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TmallManagerApplicationTests.testattr">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="TmallManagerApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tmall_manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shengsiyuan.tmall_manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.shengsiyuan.tmall_manager" />
+      <option name="MAIN_CLASS_NAME" value="com.shengsiyuan.tmall_manager.TmallManagerApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TmallManagerApplicationTests.testFastJson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tmall_manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shengsiyuan.tmall_manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.shengsiyuan.tmall_manager" />
+      <option name="MAIN_CLASS_NAME" value="com.shengsiyuan.tmall_manager.TmallManagerApplicationTests" />
+      <option name="METHOD_NAME" value="testFastJson" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TmallManagerApplicationTests.testattr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tmall_manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shengsiyuan.tmall_manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.shengsiyuan.tmall_manager" />
+      <option name="MAIN_CLASS_NAME" value="com.shengsiyuan.tmall_manager.TmallManagerApplicationTests" />
+      <option name="METHOD_NAME" value="testattr" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TmallManagerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tmall_manager" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shengsiyuan.tmall_manager.TmallManagerApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.TmallManagerApplication" />
+      <item itemvalue="JUnit.TmallManagerApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.TmallManagerApplicationTests.testattr" />
+      <item itemvalue="JUnit.TmallManagerApplicationTests.testFastJson" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TmallManagerApplicationTests.testFastJson" />
+        <item itemvalue="JUnit.TmallManagerApplicationTests.testattr" />
+        <item itemvalue="JUnit.TmallManagerApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.TmallManagerApplicationTests.testFastJson" />
+        <item itemvalue="JUnit.TmallManagerApplicationTests.testattr" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13256c88-ebd2-42be-9c8e-467ca18a2ab5" name="Default" comment="" />
+      <created>1573030451635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573030451635</updated>
+      <workItem from="1573030458214" duration="13268000" />
+      <workItem from="1573090946690" duration="340000" />
+      <workItem from="1573093081388" duration="9937000" />
+      <workItem from="1573631908927" duration="692000" />
+      <workItem from="1573633598574" duration="23757000" />
+      <workItem from="1573970990110" duration="594000" />
+      <workItem from="1574296317682" duration="4881000" />
+      <workItem from="1574306883394" duration="1023000" />
+      <workItem from="1574562947223" duration="2556000" />
+      <workItem from="1574700238017" duration="1900000" />
+      <workItem from="1575288100393" duration="1250000" />
+      <workItem from="1575296261828" duration="2227000" />
+      <workItem from="1575557499691" duration="1627000" />
+      <workItem from="1575559689548" duration="502000" />
+    </task>
+    <task id="LOCAL-00001" summary="hello">
+      <created>1574301219467</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574301219467</updated>
+    </task>
+    <task id="LOCAL-00002" summary="tom">
+      <created>1574301533403</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574301533404</updated>
+    </task>
+    <task id="LOCAL-00003" summary="tom2">
+      <created>1574302155312</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574302155312</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TmallManagerApplicationTests_testFastJson - 2019.11.24 at 10h 50m 05s.xml">
+      <configuration name="TmallManagerApplicationTests.testFastJson" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TmallManagerApplicationTests_testFastJson - 2019.11.24 at 10h 50m 59s.xml">
+      <configuration name="TmallManagerApplicationTests.testFastJson" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TmallManagerApplicationTests_contextLoads - 2019.11.24 at 10h 52m 24s.xml">
+      <configuration name="TmallManagerApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TmallManagerApplicationTests_testattr - 2019.11.24 at 10h 53m 31s.xml">
+      <configuration name="TmallManagerApplicationTests.testattr" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TmallManagerApplicationTests_testFastJson - 2019.11.24 at 10h 54m 20s.xml">
+      <configuration name="TmallManagerApplicationTests.testFastJson" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TmallManagerApplicationTests_testFastJson - 2019.11.24 at 10h 55m 06s.xml">
+      <configuration name="TmallManagerApplicationTests.testFastJson" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TmallManagerApplicationTests_testFastJson - 2019.11.24 at 10h 55m 33s.xml">
+      <configuration name="TmallManagerApplicationTests.testFastJson" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TmallManagerApplicationTests_testFastJson - 2019.11.24 at 10h 55m 48s.xml">
+      <configuration name="TmallManagerApplicationTests.testFastJson" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TmallManagerApplicationTests_testattr - 2019.12.02 at 22h 22m 51s.xml">
+      <configuration name="TmallManagerApplicationTests.testattr" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TmallManagerApplicationTests_testattr - 2019.12.02 at 23h 04m 55s.xml">
+      <configuration name="TmallManagerApplicationTests.testattr" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="64554000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="0" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.37908497" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32843137" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="1" />
+      <window_info anchor="bottom" id="Java Enterprise" order="3" weight="0.32843137" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.43464053" />
+      <window_info anchor="bottom" id="Version Control" order="5" weight="0.3006536" />
+      <window_info anchor="bottom" id="Spring" order="0" weight="0.32843137" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.30392158" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2700454" />
+      <window_info anchor="right" id="Bean Validation" order="5" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32843137" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="bottom" id="Spring" order="0" weight="0.32952693" />
+      <window_info id="Image Layers" order="1" />
+      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.23327896" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32952693" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32952693" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.26399395" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32920355" />
+      <window_info anchor="right" id="Bean Validation" order="5" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.502447" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hello" />
+    <MESSAGE value="tom" />
+    <MESSAGE value="tom2" />
+    <option name="LAST_COMMIT_MESSAGE" value="tom2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="36" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/resources/templates/add_spu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/test/java/com/shengsiyuan/tmall_manager/TmallManagerApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/controller/Spucontroller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/resources/templates/add_spu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/test/java/com/shengsiyuan/tmall_manager/TmallManagerApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/resources/mapper/Student.xml" />
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/resources/mybatis/mapper/Student.xml" />
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/bean/tmallproduct.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE.jar!/org/springframework/stereotype/Controller.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/util/MyFileUpload.java" />
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/bean/Url.java" />
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/mapper.java" />
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/service/SpuServiceInf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/bean/Tmall_product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/controller/Spucontroller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/controller/SpuController1113.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/resources/templates/add_attr.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/service/AttrService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/resources/templates/success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/bean/UserAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/javase/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/resources/templates/add_spu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/controller/AttrController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="65" column="28" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE.jar!/org/springframework/validation/support/BindingAwareModelMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.0.RELEASE/spring-web-5.2.0.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="55" column="56" selection-start-line="55" selection-start-column="56" selection-end-line="55" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/resources/afd.properties" />
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/resources/a.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/testgit/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/resources/mybatis/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/resources/mybatis/mapper/spu.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/resources/mybatis/mapper/user.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/mapper/AttrMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/bean/Tmall_attr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/test/java/com/shengsiyuan/tmall_manager/TmallManagerApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/mapper/SpuMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/service/impl/SpuServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/service/impl/AttrServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/service/SpuService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/resources/mybatis/mapper/attr.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/bean/Object_attr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/bean/Tmall_value.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall_manager/src/main/java/com/shengsiyuan/tmall_manager/service/impl/SpuServiceInfimp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
